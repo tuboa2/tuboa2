@@ -15,7 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 [![](https://visitcount.itsvg.in/api?id=seyann16&icon=6&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
