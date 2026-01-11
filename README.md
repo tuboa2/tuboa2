@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Full Stack Developer** crafting robust web applications. I bridge the gap between dynamic frontends and solid backends.<br><br>**The Stack**: React + TypeScript 🤝 Laravel + MySQL<br>**The Goal**: Building scalable, type-safe systems with clean architecture.<br>**Current Focus**: Mastering the art of AI services in web application.
+**Full Stack Developer** crafting robust web applications. I bridge the gap between dynamic frontends and solid backends.<br><br>**The Stack**: React + TypeScript 🤝 Laravel + MySQL<br>**The Goal**: Building scalable, type-safe systems with clean architecture.<br>**Current Focus**: Mastering the art of AI services in web applications.
 
 
 ## 🌐 Socials:
