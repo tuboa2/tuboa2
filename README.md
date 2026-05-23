@@ -1,5 +1,3 @@
-# Tuo Boa
-
 **Full-Stack Developer | AI/ML Engineer | Solutions Architect**
 
 ---
@@ -52,5 +50,3 @@ I'm always open to discussing:
 Feel free to reach out if you'd like to connect or explore potential opportunities.
 
 ---
-
-*Last updated: May 2026*
