@@ -1,18 +1,183 @@
-# 💫 About Me:
-**Full Stack Developer** crafting robust web applications. I bridge the gap between dynamic frontends and solid backends.<br><br>**The Stack**: React + TypeScript 🤝 Laravel + MySQL<br>**The Goal**: Building scalable, type-safe systems with clean architecture.<br>**Current Focus**: Mastering the art of AI services in web applications.
+# Hi there, I'm Tuo 👋
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tuboa2) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@seyann) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:efrenpongase@gmail.com) 
+**A Full-Stack Developer | AI/ML Engineer | Solutions Architect**
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) 
+Passionate about building intelligent, scalable applications that solve real-world problems.
+
+[Portfolio](https://github.com/tuboa2) • [Twitter](https://twitter.com) • [LinkedIn](https://linkedin.com)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a versatile software engineer with expertise in **full-stack development**, **AI/ML integration**, and **enterprise solutions**. I specialize in creating production-ready applications that combine modern web technologies with intelligent algorithms to deliver meaningful impact.
+
+With a track record of building diverse projects—from real-time disaster monitoring systems to AI-powered fitness optimization—I bring a practical, results-oriented approach to every challenge.
+
+**Core Competencies:**
+- Full-Stack Web Development (Frontend & Backend)
+- Machine Learning & AI Integration
+- FastAPI & Microservices Architecture
+- Database Design & Optimization
+- Real-Time Data Processing
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### ML/AI Tools
+![XGBoost](https://img.shields.io/badge/XGBoost-00A3E0?style=flat-square&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+
+### 🎯 **Muscle Memory AI**
+*Production-ready FastAPI microservice for intelligent strength training optimization*
+
+A dual XGBoost model architecture that predicts personalized lifting weights and intelligently identifies deload weeks by analyzing performance metrics like fatigue, momentum, and training volume.
+
+- **Tech:** Python, FastAPI, XGBoost, Machine Learning
+- **Impact:** Optimizes training efficiency and prevents overtraining
+- **Repository:** [tuboa2/muscle-memory-ai](https://github.com/tuboa2/muscle-memory-ai)
+
+---
+
+### 🚨 **AEGIS - Real-Time AI Disaster Monitoring Platform**
+*Intelligent disaster detection and monitoring system*
+
+A comprehensive platform for real-time disaster monitoring powered by AI, providing actionable insights and early warning capabilities.
+
+- **Tech:** PHP, AI/ML Integration
+- **Use Case:** Critical infrastructure monitoring & disaster prevention
+- **Repository:** [tuboa2/aegis](https://github.com/tuboa2/aegis)
+
+---
+
+### 📊 **Feedback Radar**
+*AI-powered sentiment analysis system for data-driven feedback*
+
+An intelligent feedback analysis platform that processes CSV files and text using sentiment analysis and large language models to extract meaningful insights.
+
+- **Tech:** PHP, NLP, Sentiment Analysis, LLMs
+- **Features:** Batch processing, LLM-powered insights, trend analysis
+- **Repository:** [tuboa2/feedback-radar](https://github.com/tuboa2/feedback-radar)
+
+---
+
+### 🧠 **Sentiment Analyzer**
+*Optimized NLP sentiment classification from scratch*
+
+A highly optimized sentiment analyzer built from first principles using TF-IDF vectorization and Multinomial Naive Bayes, demonstrating deep understanding of NLP fundamentals.
+
+- **Tech:** TypeScript, NLP, Machine Learning
+- **Performance:** Optimized for speed and accuracy
+- **Repository:** [tuboa2/sentiment-analyzer](https://github.com/tuboa2/sentiment-analyzer)
+
+---
+
+## 📦 Other Notable Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| [battle-game](https://github.com/tuboa2/battle-game) | Real-time battle game simulation | JavaScript |
+| [landing-page-generator](https://github.com/tuboa2/landing-page-generator) | Dynamic landing page builder | TypeScript |
+| [ngo-dashboard](https://github.com/tuboa2/ngo-dashboard) | Comprehensive NGO management dashboard | TypeScript |
+| [portfolio](https://github.com/tuboa2/portfolio) | Professional portfolio website | JavaScript |
+| [task-flow](https://github.com/tuboa2/task-flow) | Project and task management system | PHP |
+| [finance-manager](https://github.com/tuboa2/finance-manager) | Personal finance tracking application | JavaScript |
+| [big-o-oracle-api](https://github.com/tuboa2/big-o-oracle-api) | Algorithm complexity analyzer | Python |
+| [personal-profile-website](https://github.com/tuboa2/personal-profile-website) | Professional profile page | PHP |
+| [simple-project-management-website](https://github.com/tuboa2/simple-project-management-website) | Lightweight project management tool | PHP |
+| [simple-contact-form](https://github.com/tuboa2/simple-contact-form) | Contact form component | PHP |
+| [resume-website](https://github.com/tuboa2/resume-website) | Resume showcase website | CSS |
+
+---
+
+## 📈 What I'm Currently Focused On
+
+- 🤖 Advanced ML model optimization and production deployment
+- ⚡ Building scalable microservices architectures
+- 🔄 Real-time data processing and streaming systems
+- 📱 Full-stack applications with modern React + TypeScript
+- 🛠️ Open source contributions and community engagement
+
+---
+
+## 🎯 Key Achievements
+
+✅ **Production-Ready Solutions** - Deployed multiple AI/ML systems to production environments  
+✅ **Full-Stack Expertise** - From database design to beautiful UI implementations  
+✅ **AI Integration** - Successfully integrated advanced ML models into business applications  
+✅ **Performance Optimization** - Built highly optimized algorithms and systems  
+✅ **Diverse Tech Stack** - Proficient across multiple languages and frameworks  
+
+---
+
+## 📚 Continuous Learning
+
+I'm committed to staying at the forefront of technology through:
+- Regular exploration of emerging AI/ML frameworks
+- Architecture design patterns and best practices
+- Performance optimization techniques
+- Community engagement and knowledge sharing
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in:
+- Collaborating on innovative projects
+- Discussing software architecture and design
+- Mentoring and knowledge exchange
+- Building solutions that create real impact
+
+**Feel free to reach out:**
+- 📧 Open to discussing opportunities
+- 💬 Available for technical discussions
+- 🔗 Always happy to collaborate
+
+---
+
+<div align="center">
+
+### 📊 GitHub Overview
+
+- **Total Repositories:** 16+
+- **Focus Areas:** Full-Stack Development, ML/AI, Real-Time Systems
+- **Preferred Languages:** Python, TypeScript, JavaScript, PHP
+
+</div>
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/seyann) 
+---
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+**⭐ If you find my projects interesting, consider starring them!**
+
+*Last updated: May 2026*
+
+</div>
